@@ -12,4 +12,5 @@ npm-debug.log*
 coverage/
 .idea/
 .vscode/
+client/src/pages/file.png
 *.log
